@@ -222,4 +222,6 @@ find /tmp -name "sess_*" -mtime +1 -delete
 ## Licença
 
 Este projeto foi desenvolvido como demonstração de um sistema ERP completo em PHP puro, seguindo boas práticas de desenvolvimento e padrões MVC.
+Se esse sitema foi útil pra você, aqui está minha chave pix do café ;)
+e-mail: celostad@gmail.com
 
