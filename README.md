@@ -43,6 +43,17 @@ Um sistema completo de ERP desenvolvido em PHP 8.2 puro com SQLite e Bootstrap, 
 - **Arquitetura**: MVC (Model-View-Controller)
 - **APIs**: ViaCEP para validação de CEP
 
+# Telas do sistema:
+![tela_inicial](https://github.com/user-attachments/assets/e7e9624f-e711-416d-a8eb-bb33be1bde0b)
+![tipos_de_variacaoes_produtos](https://github.com/user-attachments/assets/64da996d-d4cb-4a1a-a699-e6395c559090)
+![carrinho_compras](https://github.com/user-attachments/assets/9b35ca91-719c-4ea5-bec1-14bb18c017e0)
+![finalizando_pedido](https://github.com/user-attachments/assets/d2eee664-3580-4694-85ce-adee4897a8d5)
+![finalizacao_pedido](https://github.com/user-attachments/assets/cd3a07b7-a5d3-49ca-9eac-a194e39544ac)
+![tela_cupons](https://github.com/user-attachments/assets/5f8b57af-7bc5-43d0-a85b-4b7dba6b6e1f)
+![tela_pedidos](https://github.com/user-attachments/assets/654bd59d-5486-41cd-a135-eb62c54589cf)
+
+
+
 ## Estrutura do Projeto
 
 ```
